@@ -1,8 +1,5 @@
-// mod _1_two_sum;
-// mod _20_valid_parentheses;
-mod _3_longest_substring_without_repeating_characters;
-// mod _28_find_the_index_of_the_first_occurrence_in_a_string;
+mod _27_remove_element;
 fn main() {
-    let result = _3_longest_substring_without_repeating_characters::Solution::length_of_longest_substring(String::from("thykwuersqfntjbmudrpexnphaovsihlrfxpbehuumjpxkctptitqvkxvavpicbbiarleyfamoqjaucpnmkfhueeu"));
+    let result = _27_remove_element::Solution::remove_element(&mut vec![1,2,3,4,4,3],3);
     println!("{:?}", result);
 }
