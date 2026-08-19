@@ -1,6 +1,7 @@
-mod _28_find_the_duplicate_number;
+mod _4_median_of_two_sorted_arrays;
 
 fn main() {
-    let result = _28_find_the_duplicate_number::Solution::find_duplicate(vec![3,1,3,4,2]);
+    let result =
+        _4_median_of_two_sorted_arrays::Solution::find_median_sorted_arrays(vec![2,2,4,4], vec![2,2,2,4,4]);
     println!("{:?}", result);
 }
