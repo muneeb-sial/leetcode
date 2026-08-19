@@ -8,20 +8,15 @@ pub struct Solution;
 // @lc code=start
 impl Solution {
     pub fn remove_element(nums: &mut Vec<i32>, val: i32) -> i32 {
-
-        let length_of_array = nums.len();
-        let mut num_to_time_value_appears = 0;
-        for index in 0..nums.len(){
-            if nums[index] == val{
-                num_to_time_value_appears+=1;
-                // nums[index]=
-                continue;
+        let mut k = 0;
+        for i in 0..nums.len() {
+            if nums[i] != val {
+                nums[k] = nums[i];
+                k += 1;
             }
-            // nums[index] = element.clone();
-
         }
-     return length_of_array as i32 - num_to_time_value_appears;
+
+        k as i32
     }
 }
 // @lc code=end
-
