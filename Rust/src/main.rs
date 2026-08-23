@@ -1,7 +1,7 @@
-mod _4_median_of_two_sorted_arrays;
+mod _217_contains_duplicate;
 
 fn main() {
     let result =
-        _4_median_of_two_sorted_arrays::Solution::find_median_sorted_arrays(vec![2,2,4,4], vec![2,2,2,4,4]);
+        _217_contains_duplicate::Solution::contains_duplicate(vec![2,2,4,4]);
     println!("{:?}", result);
 }
