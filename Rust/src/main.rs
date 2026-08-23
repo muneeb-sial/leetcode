@@ -1,7 +1,7 @@
-mod _217_contains_duplicate;
+mod _242_valid_anagram;
 
 fn main() {
     let result =
-        _217_contains_duplicate::Solution::contains_duplicate(vec![2,2,4,4]);
+        _242_valid_anagram::Solution::is_anagram("anagram".to_string(),"nagaram".to_string());
     println!("{:?}", result);
 }
