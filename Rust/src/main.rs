@@ -1,7 +1,9 @@
-mod _242_valid_anagram;
+mod _49_group_anagrams;
 
 fn main() {
     let result =
-        _242_valid_anagram::Solution::is_anagram("anagram".to_string(),"nagaram".to_string());
+        _49_group_anagrams::Solution::group_anagrams(vec![
+            "eat".to_string(),"tea".to_string(),"tan".to_string(),"ate".to_string(),"nat".to_string(),"bat".to_string()
+            ]);
     println!("{:?}", result);
 }
