@@ -1,7 +1,7 @@
-mod _705_design_hash_set;
+mod _128_longest_consecutive_sequence;
 
 fn main() {
     let result =
-        _705_design_hash_set::MyHashSet::new();
+        _128_longest_consecutive_sequence::Solution::longest_consecutive(vec![100,4,200,1,3,2]);
     println!("{:?}", result);
 }
