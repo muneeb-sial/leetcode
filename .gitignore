@@ -28,5 +28,6 @@ Thumbs.db
 # Coverage/test output
 /coverage/
 /htmlcov/
+rename.js
 
 # Optional: c
