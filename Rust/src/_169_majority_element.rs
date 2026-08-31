@@ -9,13 +9,15 @@ pub struct Solution;
 // @lc code=start
 impl Solution {
     pub fn majority_element(nums: Vec<i32>) -> i32 {
-        let mut h_map = std::collections::HashMap::new();
+        let mut count = 0;
+        let mut result = 0;
         for i in nums {
-            *h_map.entry(i).or_insert(0) += 1;
+            if count == 0 {
+                result = i;
+            }
+            if result == i { count += 1 } else { count -= 1 }
         }
-
-        let max_key = h_map.iter().max_by_key(|(_, v)| *v).map(|(k, _)| *k);
-        max_key.unwrap()
+        result
     }
 }
 // @lc code=end
