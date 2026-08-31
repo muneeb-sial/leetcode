@@ -1,9 +1,7 @@
-use std::vec;
-
-mod _169_majority_element;
+mod _705_design_hash_set;
 
 fn main() {
     let result =
-        _169_majority_element::Solution::majority_element(vec![1,2,3,4]);
+        _705_design_hash_set::MyHashSet::new();
     println!("{:?}", result);
 }
