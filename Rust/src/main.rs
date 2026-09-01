@@ -1,16 +1,7 @@
-mod _36_valid_sudoku;
+mod _121_best_time_to_buy_and_sell_stock;
 
 fn main() {
-    let board = vec![
-        vec!['5', '3', '.', '.', '7', '.', '.', '.', '.'],
-        vec!['6', '.', '.', '1', '9', '5', '.', '.', '.'],
-        vec!['.', '9', '8', '.', '.', '.', '.', '6', '.'],
-        vec!['8', '.', '.', '.', '6', '.', '.', '.', '3'],
-        vec!['4', '.', '.', '8', '.', '3', '.', '.', '1'],
-        vec!['7', '.', '.', '.', '2', '.', '.', '.', '6'],
-        vec!['.', '6', '.', '.', '.', '.', '.', '.', '.'],
-        vec!['.', '.', '.', '4', '1', '9', '.', '5', '.'],
-        vec!['.', '.', '.', '.', '8', '.', '.', '7', '9']
-    ];
-    println!("{}", _36_valid_sudoku::Solution::is_valid_sudoku(board));
+    let prices = vec![7,1];
+    // let prices = vec![7, 1, 5, 3, 6, 4];
+    println!("{}", _121_best_time_to_buy_and_sell_stock::Solution::max_profit(prices));
 }
