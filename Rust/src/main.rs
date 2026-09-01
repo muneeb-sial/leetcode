@@ -1,7 +1,5 @@
-mod _121_best_time_to_buy_and_sell_stock;
+mod _125_valid_palindrome;
 
 fn main() {
-    let prices = vec![7,1];
-    // let prices = vec![7, 1, 5, 3, 6, 4];
-    println!("{}", _121_best_time_to_buy_and_sell_stock::Solution::max_profit(prices));
+    println!("{}", _125_valid_palindrome::Solution::is_palindrome("race a car".to_string()));
 }
