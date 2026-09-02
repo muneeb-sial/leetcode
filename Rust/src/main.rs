@@ -1,5 +1,5 @@
-mod _167_two_sum_ii_input_array_is_sorted;
+mod _42_trapping_rain_water;
 
 fn main() {
-    println!("{:?}", _167_two_sum_ii_input_array_is_sorted::Solution::two_sum(vec![2,7,11,15],9));
+    println!("{:?}", _42_trapping_rain_water::Solution::trap(vec![0,1,0,2,1,0,1,3,2,1,2,1]));
 }
