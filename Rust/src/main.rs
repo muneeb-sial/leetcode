@@ -1,5 +1,5 @@
-mod _680_valid_palindrome_ii;
+mod _229_majority_element_ii;
 
 fn main() {
-    println!("{}", _680_valid_palindrome_ii::Solution::valid_palindrome("race a car".to_string()));
+    println!("{:?}", _229_majority_element_ii::Solution::majority_element(vec![1, 1, 1, 3, 3, 2, 2, 2]));
 }
