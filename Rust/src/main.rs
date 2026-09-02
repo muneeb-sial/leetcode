@@ -1,5 +1,5 @@
-mod _229_majority_element_ii;
+mod _167_two_sum_ii_input_array_is_sorted;
 
 fn main() {
-    println!("{:?}", _229_majority_element_ii::Solution::majority_element(vec![1, 1, 1, 3, 3, 2, 2, 2]));
+    println!("{:?}", _167_two_sum_ii_input_array_is_sorted::Solution::two_sum(vec![2,7,11,15],9));
 }
