@@ -1,7 +1,7 @@
-mod _283_move_zeroes;
+mod _84_largest_rectangle_in_histogram;
 
 fn main() {
-    let mut nums = vec![0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1];
-    _283_move_zeroes::Solution::move_zeroes(&mut nums);
-    println!("{:?}", nums);
+    let heights = vec![2,1,5,6,2,3];
+    let result = _84_largest_rectangle_in_histogram::Solution::largest_rectangle_area(heights);
+    println!("{:?}", result);
 }
