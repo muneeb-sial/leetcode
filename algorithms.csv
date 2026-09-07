@@ -1,0 +1,72 @@
+Serial,LeetCode_ID,Problem,Difficulty,Topic,Solved
+1,,Stack (Array-based Implementation),Easy,Data Structure Impl,No
+2,,Stack (Linked List-based Implementation),Easy,Data Structure Impl,No
+3,,Queue (Array-based Implementation),Easy,Data Structure Impl,No
+4,,Queue (Linked List-based Implementation),Easy,Data Structure Impl,No
+5,,Circular Queue Implementation,Medium,Data Structure Impl,No
+6,,Deque (Double-Ended Queue) Implementation,Medium,Data Structure Impl,No
+7,,Singly Linked List Implementation,Easy,Data Structure Impl,No
+8,,Doubly Linked List Implementation,Easy,Data Structure Impl,No
+9,,Circular Linked List Implementation,Medium,Data Structure Impl,No
+10,,Binary Search Tree Implementation,Medium,Data Structure Impl,No
+11,,Min-Heap / Max-Heap Implementation,Medium,Data Structure Impl,No
+12,,Hash Table Implementation (Separate Chaining),Medium,Data Structure Impl,No
+13,,Graph - Adjacency List Implementation,Medium,Data Structure Impl,No
+14,,Graph - Adjacency Matrix Implementation,Medium,Data Structure Impl,No
+15,,Trie Implementation,Medium,Data Structure Impl,No
+16,,Disjoint Set / Union-Find Implementation,Medium,Data Structure Impl,No
+17,,Segment Tree Implementation,Hard,Data Structure Impl,No
+18,,Fenwick Tree (BIT) Implementation,Hard,Data Structure Impl,No
+19,,Bubble Sort,Easy,Sorting,No
+20,,Selection Sort,Easy,Sorting,No
+21,,Insertion Sort,Easy,Sorting,No
+22,,Merge Sort,Medium,Sorting,No
+23,,Quick Sort,Medium,Sorting,No
+24,,Heap Sort,Medium,Sorting,No
+25,,Counting Sort,Medium,Sorting,No
+26,,Radix Sort,Medium,Sorting,No
+27,,Bucket Sort,Medium,Sorting,No
+28,,Linear Search,Easy,Searching,No
+29,,Binary Search,Easy,Searching,No
+30,,Ternary Search,Medium,Searching,No
+31,,BFS (Breadth-First Search),Easy,Graph Algorithms,No
+32,,DFS (Depth-First Search),Easy,Graph Algorithms,No
+33,,Dijkstra's Algorithm,Medium,Graph Algorithms,No
+34,,Bellman-Ford Algorithm,Medium,Graph Algorithms,No
+35,,Floyd-Warshall Algorithm,Medium,Graph Algorithms,No
+36,,Kruskal's Algorithm (MST),Medium,Graph Algorithms,No
+37,,Prim's Algorithm (MST),Medium,Graph Algorithms,No
+38,,Topological Sort,Medium,Graph Algorithms,No
+39,,Union-Find / Disjoint Set with Path Compression,Medium,Graph Algorithms,No
+40,,Fibonacci (DP intro),Easy,Dynamic Programming,No
+41,,0/1 Knapsack,Medium,Dynamic Programming,No
+42,,Fractional Knapsack,Medium,Dynamic Programming,No
+43,,Longest Common Subsequence (LCS),Medium,Dynamic Programming,No
+44,,Longest Increasing Subsequence (LIS),Medium,Dynamic Programming,No
+45,,Matrix Chain Multiplication,Hard,Dynamic Programming,No
+46,,Edit Distance (Levenshtein),Medium,Dynamic Programming,No
+47,,Activity Selection,Easy,Greedy Algorithms,No
+48,,Huffman Coding,Medium,Greedy Algorithms,No
+49,,Job Sequencing,Medium,Greedy Algorithms,No
+50,,N-Queens,Hard,Backtracking,No
+51,,Sudoku Solver,Hard,Backtracking,No
+52,,Permutations Generation,Medium,Backtracking,No
+53,,Subsets Generation,Medium,Backtracking,No
+54,,Merge Sort (D&C view),Medium,Divide and Conquer,No
+55,,Quick Sort (D&C view),Medium,Divide and Conquer,No
+56,,Binary Search (D&C view),Easy,Divide and Conquer,No
+57,,Karatsuba Multiplication,Medium,Divide and Conquer,No
+58,,Closest Pair of Points,Hard,Divide and Conquer,No
+59,,Tree Traversal - Inorder,Easy,Tree Algorithms,No
+60,,Tree Traversal - Preorder,Easy,Tree Algorithms,No
+61,,Tree Traversal - Postorder,Easy,Tree Algorithms,No
+62,,Tree Traversal - Level-order,Easy,Tree Algorithms,No
+63,,Lowest Common Ancestor (LCA),Medium,Tree Algorithms,No
+64,,Segment Tree - Range Queries,Hard,Tree Algorithms,No
+65,,Fenwick Tree (BIT) - Range Queries,Hard,Tree Algorithms,No
+66,,KMP (Knuth-Morris-Pratt) Pattern Matching,Medium,String Algorithms,No
+67,,Rabin-Karp Algorithm,Medium,String Algorithms,No
+68,,Z-Algorithm,Medium,String Algorithms,No
+69,,Trie-based Search,Medium,String Algorithms,No
+70,,XOR Tricks,Easy,Bit Manipulation,No
+71,,Bitmasking for Subsets,Medium,Bit Manipulation,No
