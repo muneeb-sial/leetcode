@@ -1,34 +1,34 @@
 Serial,LeetCode_ID,Problem,Difficulty,Topic,Solved
 1,1,Two Sum,Easy,Arrays & Hashing,Yes
-2,217,Contains Duplicate,Easy,Arrays & Hashing,No
-3,242,Valid Anagram,Easy,Arrays & Hashing,No
-4,49,Group Anagrams,Medium,Arrays & Hashing,No
+2,217,Contains Duplicate,Easy,Arrays & Hashing,Yes
+3,242,Valid Anagram,Easy,Arrays & Hashing,Yes
+4,49,Group Anagrams,Medium,Arrays & Hashing,Yes
 5,347,Top K Frequent Elements,Medium,Arrays & Hashing,Yes
 6,238,Product of Array Except Self,Medium,Arrays & Hashing,Yes
-7,36,Valid Sudoku,Medium,Arrays & Hashing,No
+7,36,Valid Sudoku,Medium,Arrays & Hashing,Yes
 8,271,Encode and Decode Strings,Medium,Arrays & Hashing,No
-9,128,Longest Consecutive Sequence,Medium,Arrays & Hashing,No
-10,121,Best Time to Buy and Sell Stock,Easy,Arrays & Hashing,No
-11,169,Majority Element,Easy,Arrays & Hashing,No
-12,75,Sort Colors,Medium,Arrays & Hashing,No
+9,128,Longest Consecutive Sequence,Medium,Arrays & Hashing,Yes
+10,121,Best Time to Buy and Sell Stock,Easy,Arrays & Hashing,Yes
+11,169,Majority Element,Easy,Arrays & Hashing,Yes
+12,75,Sort Colors,Medium,Arrays & Hashing,Yes
 13,56,Merge Intervals,Medium,Arrays & Hashing,No
 14,57,Insert Interval,Medium,Arrays & Hashing,No
 15,435,Non-overlapping Intervals,Medium,Arrays & Hashing,No
 16,560,Subarray Sum Equals K,Medium,Arrays & Hashing,No
 17,523,Continuous Subarray Sum,Medium,Arrays & Hashing,No
-18,189,Rotate Array,Medium,Arrays & Hashing,No
-19,442,Find All Duplicates in an Array,Medium,Arrays & Hashing,No
+18,189,Rotate Array,Medium,Arrays & Hashing,Yes
+19,442,Find All Duplicates in an Array,Medium,Arrays & Hashing,Yes
 20,73,Set Matrix Zeroes,Medium,Arrays & Hashing,No
-21,125,Valid Palindrome,Easy,Two Pointers,No
-22,167,Two Sum II,Medium,Two Pointers,No
-23,15,3Sum,Medium,Two Pointers,No
+21,125,Valid Palindrome,Easy,Two Pointers,Yes
+22,167,Two Sum II,Medium,Two Pointers,Yes
+23,15,3Sum,Medium,Two Pointers,Yes
 24,18,4Sum,Medium,Two Pointers,No
 25,11,Container With Most Water,Medium,Two Pointers,Yes
-26,42,Trapping Rain Water,Hard,Two Pointers,No
+26,42,Trapping Rain Water,Hard,Two Pointers,Yes
 27,26,Remove Duplicates from Sorted Array,Easy,Two Pointers,Yes
 28,27,Remove Element,Easy,Two Pointers,Yes
-29,283,Move Zeroes,Easy,Two Pointers,No
-30,881,Boats to Save People,Medium,Two Pointers,No
+29,283,Move Zeroes,Easy,Two Pointers,Yes
+30,881,Boats to Save People,Medium,Two Pointers,Yes
 31,977,Squares of a Sorted Array,Easy,Two Pointers,No
 32,763,Partition Labels,Medium,Two Pointers,No
 33,122,Best Time to Buy and Sell Stock II,Medium,Sliding Window,No
@@ -46,12 +46,12 @@ Serial,LeetCode_ID,Problem,Difficulty,Topic,Solved
 45,1493,Longest Subarray of 1's After Deleting One Element,Medium,Sliding Window,No
 46,209,Minimum Size Subarray Sum,Medium,Sliding Window,No
 47,20,Valid Parentheses,Easy,Stack,Yes
-48,155,Min Stack,Medium,Stack,No
-49,150,Evaluate Reverse Polish Notation,Medium,Stack,No
-50,22,Generate Parentheses,Medium,Stack,No
+48,155,Min Stack,Medium,Stack,Yes
+49,150,Evaluate Reverse Polish Notation,Medium,Stack,Yes
+50,22,Generate Parentheses,Medium,Stack,Yes
 51,739,Daily Temperatures,Medium,Stack,No
-52,853,Car Fleet,Medium,Stack,No
-53,84,Largest Rectangle in Histogram,Hard,Stack,No
+52,853,Car Fleet,Medium,Stack,Yes
+53,84,Largest Rectangle in Histogram,Hard,Stack,Yes
 54,496,Next Greater Element I,Easy,Stack,No
 55,503,Next Greater Element II,Medium,Stack,No
 56,735,Asteroid Collision,Medium,Stack,No
@@ -60,12 +60,12 @@ Serial,LeetCode_ID,Problem,Difficulty,Topic,Solved
 59,227,Basic Calculator II,Medium,Stack,No
 60,704,Binary Search,Easy,Binary Search,Yes
 61,35,Search Insert Position,Easy,Binary Search,Yes
-62,74,Search a 2D Matrix,Medium,Binary Search,No
-63,875,Koko Eating Bananas,Medium,Binary Search,No
+62,74,Search a 2D Matrix,Medium,Binary Search,Yes
+63,875,Koko Eating Bananas,Medium,Binary Search,Yes
 64,153,Find Minimum in Rotated Sorted Array,Medium,Binary Search,No
 65,33,Search in Rotated Sorted Array,Medium,Binary Search,No
 66,981,Time Based Key-Value Store,Medium,Binary Search,No
-67,4,Median of Two Sorted Arrays,Hard,Binary Search,No
+67,4,Median of Two Sorted Arrays,Hard,Binary Search,Yes
 68,1011,Capacity To Ship Packages Within D Days,Medium,Binary Search,No
 69,410,Split Array Largest Sum,Hard,Binary Search,No
 70,162,Find Peak Element,Medium,Binary Search,No
@@ -76,7 +76,7 @@ Serial,LeetCode_ID,Problem,Difficulty,Topic,Solved
 75,143,Reorder List,Medium,Linked List,No
 76,19,Remove Nth Node From End of List,Medium,Linked List,No
 77,138,Copy List with Random Pointer,Medium,Linked List,No
-78,2,Add Two Numbers,Medium,Linked List,No
+78,2,Add Two Numbers,Medium,Linked List,Yes
 79,141,Linked List Cycle,Easy,Linked List,No
 80,146,LRU Cache,Medium,Linked List,No
 81,23,Merge k Sorted Lists,Hard,Linked List,No
@@ -88,7 +88,7 @@ Serial,LeetCode_ID,Problem,Difficulty,Topic,Solved
 87,460,LFU Cache,Hard,Linked List,No
 88,287,Find the Duplicate Number,Medium,Linked List,No
 89,226,Invert Binary Tree,Easy,Trees,No
-90,104,Maximum Depth of Binary Tree,Easy,Trees,No
+90,104,Maximum Depth of Binary Tree,Easy,Trees,Yes
 91,543,Diameter of Binary Tree,Easy,Trees,No
 92,110,Balanced Binary Tree,Easy,Trees,No
 93,100,Same Tree,Easy,Trees,No
@@ -162,7 +162,7 @@ Serial,LeetCode_ID,Problem,Difficulty,Topic,Solved
 161,778,Swim in Rising Water,Hard,Graphs,No
 162,1514,Path with Maximum Probability,Medium,Graphs,No
 163,399,Evaluate Division,Medium,Graphs,No
-164,70,Climbing Stairs,Easy,1D DP,No
+164,70,Climbing Stairs,Easy,1D DP,Yes
 165,746,Min Cost Climbing Stairs,Easy,1D DP,No
 166,198,House Robber,Medium,1D DP,No
 167,213,House Robber II,Medium,1D DP,No
@@ -207,7 +207,7 @@ Serial,LeetCode_ID,Problem,Difficulty,Topic,Solved
 206,190,Reverse Bits,Easy,Math & Bit Manipulation,No
 207,268,Missing Number,Easy,Math & Bit Manipulation,No
 208,371,Sum of Two Integers,Medium,Math & Bit Manipulation,No
-209,7,Reverse Integer,Medium,Math & Bit Manipulation,No
+209,7,Reverse Integer,Medium,Math & Bit Manipulation,Yes
 210,202,Happy Number,Easy,Math & Bit Manipulation,No
 211,66,Plus One,Easy,Math & Bit Manipulation,No
 212,50,"Pow(x, n)",Medium,Math & Bit Manipulation,No
@@ -239,14 +239,14 @@ Serial,LeetCode_ID,Problem,Difficulty,Topic,Solved
 238,990,Satisfiability of Equality Equations,Medium,Union Find,No
 239,1319,Number of Operations to Make Network Connected (dup check),Medium,Union Find,No
 240,1631,Path With Minimum Effort,Medium,Union Find,No
-241,49,Group Anagrams II (Category Sort variant),Medium,Arrays & Hashing,No
+241,49,Group Anagrams II (Category Sort variant),Medium,Arrays & Hashing,Yes
 242,54,Spiral Matrix,Medium,Arrays & Hashing,No
 243,48,Rotate Image,Medium,Arrays & Hashing,No
 244,79,Word Search (dup ref),Medium,Backtracking,No
 245,1029,Two City Scheduling,Medium,Greedy,No
 246,435,Non-overlapping Intervals (dup ref),Medium,Intervals,No
 247,1899,Merge Triplets (dup ref),Medium,Greedy,No
-248,853,Car Fleet (dup ref),Medium,Stack,No
+248,853,Car Fleet (dup ref),Medium,Stack,Yes
 249,1235,Maximum Profit in Job Scheduling,Hard,2D DP,No
 250,140,Word Break II,Hard,1D DP,No
 251,472,Concatenated Words,Hard,Tries,No
