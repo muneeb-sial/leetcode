@@ -33,7 +33,7 @@ Serial,LeetCode_ID,Problem,Difficulty,Topic,Solved
 32,763,Partition Labels,Medium,Two Pointers,No
 33,122,Best Time to Buy and Sell Stock II,Medium,Sliding Window,No
 34,3,Longest Substring Without Repeating Characters,Medium,Sliding Window,Yes
-35,424,Longest Repeating Character Replacement,Medium,Sliding Window,No
+35,424,Longest Repeating Character Replacement,Medium,Sliding Window,Yes
 36,567,Permutation in String,Medium,Sliding Window,No
 37,76,Minimum Window Substring,Hard,Sliding Window,No
 38,239,Sliding Window Maximum,Hard,Sliding Window,No
